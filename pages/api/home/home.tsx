@@ -360,7 +360,7 @@ const Home = ({
       }}
     >
       <Head>
-        <title>ChatGPT with Plugins</title>
+        <title>善的小基地</title>
         <meta name="description" content="Use the OpenAI API with plugins, in a similar UI like ChatGPT!" />
         <meta
           name="viewport"
